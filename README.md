@@ -1,5 +1,6 @@
 # davescodemusings.github.io
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
+* [BluetoothWeather](https://github.com/DavesCodeMusings/BluetoothWeather) -- Arduino sketch to read weather parameters from the Nano 33 Sense.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
 * [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect Interactive Fiction to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational purposes.

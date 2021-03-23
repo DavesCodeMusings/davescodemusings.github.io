@@ -1,5 +1,6 @@
 # davescodemusings.github.io
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
+* [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Host a cloud at home with Raspberry Pi 3/4.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
 * [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect Interactive Fiction to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational purposes.

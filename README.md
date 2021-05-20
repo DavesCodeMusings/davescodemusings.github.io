@@ -3,7 +3,7 @@
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Turn Raspberry Pi 3 or 4 into an on-premise cloud with a minimum of fuss.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
-* [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect Interactive Fiction to IRC for multi-player adventures.
+* [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect Interactive Fiction engine, Frotz, to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational purposes.
 * [Nano33BLESense](https://github.com/DavesCodeMusings/Nano33BLESense) -- Arduino sketches using the Nano 33 BLE Sense.
 * [pwHelper](https://github.com/DavesCodeMusings/pwHelper) -- Reset forgotten FreeBSD passwords if you know the secret phrase.

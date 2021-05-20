@@ -10,4 +10,4 @@
 * [SolarEdgeAPI](https://github.com/DavesCodeMusings/SolarEdgeAPI) -- Read SolarEdge inverter data using API calls to monitoring site.
 * [SpaceTruckin](./SpaceTruckin) -- A Solar System trading game in HTML5/CSS/JavaScript for educational purposes.
 * [tzText](./tzText) -- Time zone names in HTML/JavaScript to use in selection lists.
-* [WeeNAS](./WeeNAS) -- A Raspberry Pi / FreeBSD / Samba network attached flash drive administration toolkit.
+* [WeeNAS](./WeeNAS) -- A Raspberry Pi / FreeBSD / Samba network attached flash drive sort of thing.

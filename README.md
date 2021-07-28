@@ -2,6 +2,7 @@
 * [b64](https://github.com/DavesCodeMusings/b64) -- Base64 encoding and decoding C library with Arduino examples. 
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Turn Raspberry Pi 3 or 4 into an on-premise cloud with a minimum of fuss.
+* [Dayligt](https://github.com/DavesCodeMusings/daylight) -- Sunrise, sunset, and total daylight hours output in CSV format.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
 * [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect Interactive Fiction engine, Frotz, to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational purposes.

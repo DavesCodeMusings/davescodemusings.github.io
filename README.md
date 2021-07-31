@@ -2,9 +2,9 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [mqttbaby](https://github.com/DavesCodeMusings/mqttbaby)
+* [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby)
 * [Daylight](https://github.com/DavesCodeMusings/daylight)
-* [mqttServiceCheck](https://github.com/DavesCodeMusings/mqttServiceCheck)
+* [MQTT Service Check](https://github.com/DavesCodeMusings/mqttServiceCheck)
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi)
 
 ## Raspberry Pi
@@ -18,13 +18,13 @@ These projects center around turning a Raspberry Pi into a home file server. Clo
 
 ## ESP8266
 * [b64](https://github.com/DavesCodeMusings/b64) -- Base64 encoding and decoding C library with Arduino examples.
-* [mqttbaby](https://github.com/DavesCodeMusings/mqttbaby) -- Use a cheap 8266 microcontroller to publish MQTT messages for home automation projects. 
+* [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby) -- Use a cheap 8266 microcontroller to publish MQTT messages for home automation projects. 
 
 ## JavaScript (Node.js)
 * [Daylight](https://github.com/DavesCodeMusings/daylight) -- Sunrise, sunset, and total daylight hours output in CSV format.
 * [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect the Interactive Fiction engine, Frotz, to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational and entertainment purposes.
-* [mqttServiceCheck](https://github.com/DavesCodeMusings/mqttServiceCheck) -- Monitor network services in Home Assistant via MQTT integration.
+* [MQTT Service Check](https://github.com/DavesCodeMusings/mqttServiceCheck) -- Monitor network services in Home Assistant via MQTT integration.
 * [pwHelper](https://github.com/DavesCodeMusings/pwHelper) -- Reset forgotten FreeBSD passwords if you know the secret phrase.
 
 ## HTML / JavaScript

@@ -4,7 +4,7 @@
 These projects center around turning a Raspberry Pi into a home file server. Cloud Pi is a complete solution. Beastie Pi and WeeNAS are unmaintained.
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Ansible install of NextCloud and HomeAssistant Docker containers on a Raspberry Pi 3 or 4 running Raspberry Pi OS (Buster).
-* [WeeNAS](./WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
+* [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 
 ## Arduino
 * [Nano33BLESense](https://github.com/DavesCodeMusings/Nano33BLESense) -- Arduino sketches for reading sensor data from the Arduino Nano 33 BLE Sense and making the readings available as Bluetooth characteristics.

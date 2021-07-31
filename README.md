@@ -1,5 +1,12 @@
 # davescodemusings.github.io
 
+## Newest and Most Active
+These are the projects I've been focusing most of my attention on at the moment.
+* [mqttbaby](https://github.com/DavesCodeMusings/mqttbaby)
+* [Daylight](https://github.com/DavesCodeMusings/daylight)
+* [mqttServiceCheck](https://github.com/DavesCodeMusings/mqttServiceCheck)
+* [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi)
+
 ## Raspberry Pi
 These projects center around turning a Raspberry Pi into a home file server. Cloud Pi is a complete solution. Beastie Pi and WeeNAS are unmaintained.
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.

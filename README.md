@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/README.md)
+* [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/wiki)
 * [OLED Bitmapper](https://github.com/DavesCodeMusings/oled-bitmapper)
 * [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby)
 * [Daylight](https://github.com/DavesCodeMusings/daylight)

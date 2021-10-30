@@ -3,6 +3,7 @@
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/wiki)
+* [Inform 7](https://github.com/DavesCodeMusings/Inform7)
 * [OLED Bitmapper](https://github.com/DavesCodeMusings/oled-bitmapper)
 * [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby)
 * [Daylight](https://github.com/DavesCodeMusings/daylight)
@@ -35,3 +36,6 @@ These projects center around turning a Raspberry Pi into a home file server. Clo
 
 ## REST API Examples 
 * [SolarEdgeAPI](https://github.com/DavesCodeMusings/SolarEdgeAPI) -- Read SolarEdge inverter data using API calls to monitoring site. Examples in HTML/JavaScript, Node.js, Python, and Linux shell.
+
+## Interactive Fiction
+* [Inform 7](https://github.com/DavesCodeMusings/Inform7) -- Examples of basic game play scenarios using Inform 7 declarative language, Inform 7

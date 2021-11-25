@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/wiki)
+* [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/blob/main/README.md)
 * [Inform 7](https://github.com/DavesCodeMusings/Inform7)
 * [OLED Bitmapper](https://github.com/DavesCodeMusings/oled-bitmapper)
 * [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby)

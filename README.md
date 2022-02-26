@@ -2,13 +2,9 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md)
 * [Container Central](https://github.com/DavesCodeMusings/container-central)
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/blob/main/README.md)
-* [Inform 7](https://github.com/DavesCodeMusings/Inform7)
-* [OLED Bitmapper](https://github.com/DavesCodeMusings/oled-bitmapper)
-* [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby)
-* [Daylight](https://github.com/DavesCodeMusings/daylight)
-* [MQTT Service Check](https://github.com/DavesCodeMusings/mqttServiceCheck)
 
 ## Raspberry Pi
 These projects center around turning a Raspberry Pi into a home file server. Cloud Pi is a complete solution. Beastie Pi and WeeNAS are unmaintained.
@@ -16,10 +12,13 @@ These projects center around turning a Raspberry Pi into a home file server. Clo
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Ansible install of NextCloud and HomeAssistant Docker containers on a Raspberry Pi 3 or 4 running Raspberry Pi OS (Buster).
 * [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 
-## Arduino
+## ESP32 MicroPython
+* [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md) -- Building a smart thermostat in stages as a teaching tool.
+
+## Arduino C
 * [Nano33BLESense](https://github.com/DavesCodeMusings/Nano33BLESense) -- Arduino sketches for reading sensor data from the Arduino Nano 33 BLE Sense and making the readings available as Bluetooth characteristics.
 
-## ESP8266
+## ESP8266 C
 * [b64](https://github.com/DavesCodeMusings/b64) -- Base64 encoding and decoding C library with Arduino examples.
 * [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby) -- Use a cheap 8266 microcontroller to publish MQTT messages for home automation projects. 
 

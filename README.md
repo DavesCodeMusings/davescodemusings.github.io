@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md)
+* [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md)
 * [Container Central](https://github.com/DavesCodeMusings/container-central)
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/blob/main/README.md)
 

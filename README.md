@@ -36,7 +36,7 @@ These projects center around turning a Raspberry Pi into a home file server. Clo
 * [tzText](./tzText) -- Time zone names in HTML/JavaScript to use in selection lists.
 
 ## Python
-* [Tea Runner](https://github.com/DavesCodeMusings/tea-runner)
+* [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) -- Minimalist CI/CD actions for your Gitea repositories.
 
 ## REST API Examples 
 * [SolarEdgeAPI](https://github.com/DavesCodeMusings/SolarEdgeAPI) -- Read SolarEdge inverter data using API calls to monitoring site. Examples in HTML/JavaScript, Node.js, Python, and Linux shell.

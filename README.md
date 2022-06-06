@@ -2,9 +2,9 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [ldapinator](https://github.com/DavesCodeMusings/ldapinator)
 * [Tea Runner](https://github.com/DavesCodeMusings/tea-runner)
 * [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md)
-* [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi/blob/main/README.md)
 
 ## Raspberry Pi
 These projects center around turning a Raspberry Pi into a home file server. Cloud Pi is a complete solution. Beastie Pi and WeeNAS are unmaintained.
@@ -26,6 +26,7 @@ These projects center around turning a Raspberry Pi into a home file server. Clo
 * [Daylight](https://github.com/DavesCodeMusings/daylight) -- Sunrise, sunset, and total daylight hours output in CSV format.
 * [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect the Interactive Fiction engine, Frotz, to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational and entertainment purposes.
+* [ldapinator](https://github.com/DavesCodeMusings/ldapinator) -- A minimalist web-based LDAP administration tool with REST API.
 * [MQTT Service Check](https://github.com/DavesCodeMusings/mqttServiceCheck) -- Monitor network services in Home Assistant via MQTT integration.
 * [pwHelper](https://github.com/DavesCodeMusings/pwHelper) -- Reset forgotten FreeBSD passwords if you know the secret phrase.
 

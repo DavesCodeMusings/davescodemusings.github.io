@@ -23,6 +23,7 @@ These projects center around turning a Raspberry Pi into a home file server. Clo
 * [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby) -- Use a cheap 8266 microcontroller to publish MQTT messages for home automation projects. 
 
 ## JavaScript (Node.js)
+* [All Your Base](https://github.com/DavesCodeMusings/all-your-base) -- Keep track of your Minecraft base coordinates.
 * [Daylight](https://github.com/DavesCodeMusings/daylight) -- Sunrise, sunset, and total daylight hours output in CSV format.
 * [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect the Interactive Fiction engine, Frotz, to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational and entertainment purposes.

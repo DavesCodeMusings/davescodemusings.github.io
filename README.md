@@ -2,17 +2,19 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [ldapinator](https://github.com/DavesCodeMusings/ldapinator)
-* [Tea Runner](https://github.com/DavesCodeMusings/tea-runner)
-* [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md)
+* [Thimble](https://github.com/DavesCodeMusings/thimble)
+* [ESP](https://github.com/DavesCodeMusings/esp)
+* [Millennial Motivator](https://github.com/DavesCodeMusings/motivator)
 
-## Raspberry Pi
-These projects center around turning a Raspberry Pi into a home file server. Cloud Pi is a complete solution. Beastie Pi and WeeNAS are unmaintained.
+## Raspberry Pi / Intel NUC
+These projects center around turning a Raspberry Pi (and Intel NUC) into a samll home file server. N&uuml;Cloud and Cloud Pi are complete solutions. Beastie Pi and WeeNAS are unmaintained.
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Ansible install of NextCloud and HomeAssistant Docker containers on a Raspberry Pi 3 or 4 running Raspberry Pi OS (Buster).
+* [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md)
 * [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 
-## ESP32 MicroPython
+## ESP32 / ESP8266 MicroPython
+* [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
 * [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md) -- Building a smart thermostat in stages as a teaching tool.
 
 ## Arduino C
@@ -31,9 +33,10 @@ These projects center around turning a Raspberry Pi into a home file server. Clo
 * [MQTT Service Check](https://github.com/DavesCodeMusings/mqttServiceCheck) -- Monitor network services in Home Assistant via MQTT integration.
 * [pwHelper](https://github.com/DavesCodeMusings/pwHelper) -- Reset forgotten FreeBSD passwords if you know the secret phrase.
 
-## HTML / JavaScript
+## HTML / JavaScript / CSS
 * [Container Central](https://github.com/DavesCodeMusings/container-central) -- A minimalist web-based interface for Docker containers.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
+* [Millennial Motivator](https://github.com/DavesCodeMusings/motivator) -- A tongue in cheek look at CSS transitions.
 * [SpaceTruckin](./SpaceTruckin) -- A Solar System trading game in HTML5/CSS/JavaScript for educational purposes.
 * [tzText](./tzText) -- Time zone names in HTML/JavaScript to use in selection lists.
 

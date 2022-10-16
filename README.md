@@ -2,9 +2,9 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [Thimble](https://github.com/DavesCodeMusings/thimble)
-* [ESP](https://github.com/DavesCodeMusings/esp)
-* [Millennial Motivator](https://github.com/DavesCodeMusings/motivator)
+* [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
+* [ESP](https://github.com/DavesCodeMusings/esp) -- MicroPython to do cool and useful things with the Espressif devices. 
+* [Millennial Motivator](https://github.com/DavesCodeMusings/motivator) -- A tongue in cheek look at CSS transitions and JavaScript.
 
 ## Raspberry Pi / Intel NUC
 These projects center around turning a Raspberry Pi (and Intel NUC) into a samll home file server. N&uuml;Cloud and Cloud Pi are complete solutions. Beastie Pi and WeeNAS are unmaintained.
@@ -14,6 +14,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 
 ## ESP32 / ESP8266 MicroPython
+* [ESP](https://github.com/DavesCodeMusings/esp) -- MicroPython to do cool and useful things with the Espressif devices. 
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
 * [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md) -- Building a smart thermostat in stages as a teaching tool.
 
@@ -36,7 +37,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 ## HTML / JavaScript / CSS
 * [Container Central](https://github.com/DavesCodeMusings/container-central) -- A minimalist web-based interface for Docker containers.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
-* [Millennial Motivator](https://github.com/DavesCodeMusings/motivator) -- A tongue in cheek look at CSS transitions.
+* [Millennial Motivator](https://github.com/DavesCodeMusings/motivator) -- A tongue in cheek look at CSS transitions and JavaScript.
 * [SpaceTruckin](./SpaceTruckin) -- A Solar System trading game in HTML5/CSS/JavaScript for educational purposes.
 * [tzText](./tzText) -- Time zone names in HTML/JavaScript to use in selection lists.
 

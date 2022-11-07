@@ -43,7 +43,9 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [Spartan](https://github.com/DavesCodeMusings/spartan) -- A lightweight mobile-friendly web front-end for menu navigation.
 * [tzText](./tzText) -- Time zone names in HTML/JavaScript to use in selection lists.
 
-## Python
+## Python / MicroPython
+* [REPL Buddy](https://github.com/DavesCodeMusings/repl-buddy) -- Collection of Python functions to make REPL more like *nix shell.
+* [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
 * [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) -- Minimalist CI/CD actions for your Gitea repositories.
 
 ## REST API Examples 

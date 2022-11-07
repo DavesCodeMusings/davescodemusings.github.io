@@ -53,5 +53,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.
 
+Also available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/publishers/DavesCodeMusings)
+
 ## Interactive Fiction
 * [Inform 7](https://github.com/DavesCodeMusings/Inform7) -- Examples of basic game play scenarios using Inform 7 declarative language, Inform 7

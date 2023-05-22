@@ -58,4 +58,4 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 Also available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/publishers/DavesCodeMusings)
 
 ## Interactive Fiction
-* [Inform 7](https://github.com/DavesCodeMusings/Inform7) -- Examples of basic game play scenarios using Inform 7 declarative language, Inform 7
+* [Inform 7](https://github.com/DavesCodeMusings/Inform7) -- Examples of basic game play scenarios using Inform 7 declarative language

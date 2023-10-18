@@ -4,8 +4,8 @@
 These are the projects I've been focusing most of my attention on at the moment.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.
-* [REPL Buddy](https://github.com/DavesCodeMusings/repl-buddy) -- Collection of Python functions to make REPL more like *nix shell.
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
+* [Pusher Man](https://github.com/DavesCodeMusings/pusher-man) -- A fun way to learn about HTML5 Local Storage while tracking your meds.
 
 ## Raspberry Pi / Intel NUC
 These projects center around turning a Raspberry Pi (and Intel NUC) into a samll home file server. N&uuml;Cloud and Cloud Pi are complete solutions. Beastie Pi and WeeNAS are unmaintained.

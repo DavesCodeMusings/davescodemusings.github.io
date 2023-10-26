@@ -14,17 +14,21 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md) -- Like CloudPi, but on x86 hardware with an Alpine Linux O.S.
 * [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 
+## Python / MicroPython
+* [REPL Buddy](https://github.com/DavesCodeMusings/repl-buddy) -- Collection of Python functions to make REPL more like *nix shell.
+* [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
+* [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) -- Minimalist CI/CD actions for your Gitea repositories.
+
 ## ESP32 / ESP8266 MicroPython
 * [ESP](https://github.com/DavesCodeMusings/esp) -- MicroPython to do cool and useful things with the Espressif devices. 
-* [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
 * [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md) -- Building a smart thermostat in stages as a teaching tool.
-
-## Arduino C
-* [Nano33BLESense](https://github.com/DavesCodeMusings/Nano33BLESense) -- Arduino sketches for reading sensor data from the Arduino Nano 33 BLE Sense and making the readings available as Bluetooth characteristics.
 
 ## ESP8266 C
 * [b64](https://github.com/DavesCodeMusings/b64) -- Base64 encoding and decoding C library with Arduino examples.
 * [MQTT Baby](https://github.com/DavesCodeMusings/mqttbaby) -- Use a cheap 8266 microcontroller to publish MQTT messages for home automation projects. 
+
+## Arduino C
+* [Nano33BLESense](https://github.com/DavesCodeMusings/Nano33BLESense) -- Arduino sketches for reading sensor data from the Arduino Nano 33 BLE Sense and making the readings available as Bluetooth characteristics.
 
 ## JavaScript (Node.js)
 * [All Your Base](https://github.com/DavesCodeMusings/all-your-base) -- Keep track of your Minecraft base coordinates.
@@ -43,11 +47,6 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [SpaceTruckin](./SpaceTruckin) -- A Solar System trading game in HTML5/CSS/JavaScript for educational purposes.
 * [Spartan](https://github.com/DavesCodeMusings/spartan) -- A lightweight mobile-friendly web front-end for menu navigation.
 * [tzText](./tzText) -- Time zone names in HTML/JavaScript to use in selection lists.
-
-## Python / MicroPython
-* [REPL Buddy](https://github.com/DavesCodeMusings/repl-buddy) -- Collection of Python functions to make REPL more like *nix shell.
-* [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
-* [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) -- Minimalist CI/CD actions for your Gitea repositories.
 
 ## REST API Examples 
 * [SolarEdgeAPI](https://github.com/DavesCodeMusings/SolarEdgeAPI) -- Read SolarEdge inverter data using API calls to monitoring site. Examples in HTML/JavaScript, Node.js, Python, and Linux shell.

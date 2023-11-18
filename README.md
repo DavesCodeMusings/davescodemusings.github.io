@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A single user, RFC-959 compliant FTP server using asyncio.
+* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A single user, mostly RFC 959-compliant FTP server using MicroPython asyncio.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.

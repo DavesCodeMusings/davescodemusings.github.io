@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A single user, mostly RFC 959-compliant FTP server using MicroPython asyncio.
+* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A mininalist, mostly RFC 959-compliant FTP server using MicroPython asyncio.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
@@ -15,7 +15,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 
 ## Python / MicroPython
-* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A single user, RFC-959 compliant FTP server using asyncio.
+* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A mininalist, mostly RFC-959 compliant FTP server using asyncio.
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
 * [REPL Buddy](https://github.com/DavesCodeMusings/repl-buddy) -- Collection of Python functions to make REPL more like *nix shell.
 * [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) -- Minimalist CI/CD actions for your Gitea repositories.

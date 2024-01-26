@@ -41,6 +41,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [pwHelper](https://github.com/DavesCodeMusings/pwHelper) -- Reset forgotten FreeBSD passwords if you know the secret phrase.
 
 ## HTML / JavaScript / CSS
+* [Circle of Fifths](https://github.com/DavesCodeMusings/circle-of-fifths) -- The Circle of Fifths drawn on an HTML canvas
 * [Container Central](https://github.com/DavesCodeMusings/container-central) -- A minimalist web-based interface for Docker containers.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
 * [Millennial Motivator](https://github.com/DavesCodeMusings/motivator) -- A tongue-in-cheek look at CSS transitions and JavaScript.

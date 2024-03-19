@@ -52,6 +52,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 
 ## REST API Examples 
 * [SolarEdgeAPI](https://github.com/DavesCodeMusings/SolarEdgeAPI) -- Read SolarEdge inverter data using API calls to monitoring site. Examples in HTML/JavaScript, Node.js, Python, and Linux shell.
+* [Cat Fact](https://github.com/DavesCodeMusings/cat-fact) -- Get a random cat fact on a web page using a publicly available REST API.
 
 ## VS Code Extensions
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.

@@ -2,10 +2,10 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A mininalist, mostly RFC 959-compliant FTP server using MicroPython asyncio.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
+* [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A mininalist, mostly RFC 959-compliant FTP server using MicroPython asyncio.
 
 ## Raspberry Pi / Intel NUC
 These projects center around turning a Raspberry Pi (and Intel NUC) into a samll home file server. N&uuml;Cloud and Cloud Pi are complete solutions. Beastie Pi and WeeNAS are unmaintained.

@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [School Coding Lab](https://github.com/DavesCodeMusings/school-coding-lab) -- Upcycle old Raspberry Pis for a student-built cumputer lab on the cheap.
+* [School Coding Lab](https://github.com/DavesCodeMusings/school-coding-lab) -- Upcycle old Raspberry Pis for a student-built computer lab on the cheap.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.

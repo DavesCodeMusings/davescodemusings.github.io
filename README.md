@@ -11,6 +11,7 @@ These are the projects I've been focusing most of my attention on at the moment.
 These projects center around turning a Raspberry Pi (and Intel NUC) into a samll home file server. N&uuml;Cloud and Cloud Pi are complete solutions. Beastie Pi and WeeNAS are unmaintained.
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Ansible install of NextCloud and HomeAssistant Docker containers on a Raspberry Pi 3 or 4 running Raspberry Pi OS (Buster).
+* [School Coding Lab](https://github.com/DavesCodeMusings/school-coding-lab) -- Upcycle old Raspberry Pis for a student-built computer lab on the cheap.
 * [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md) -- Like CloudPi, but on x86 hardware with an Alpine Linux O.S.
 * [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 

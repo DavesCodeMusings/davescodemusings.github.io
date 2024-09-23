@@ -31,6 +31,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 
 ## Arduino C
 * [Nano33BLESense](https://github.com/DavesCodeMusings/Nano33BLESense) -- Arduino sketches for reading sensor data from the Arduino Nano 33 BLE Sense and making the readings available as Bluetooth characteristics.
+* [BLE Battery Beacon](https://github.com/DavesCodeMusings/BLE-Battery-Beacon) -- Arduino ESP32 sketch to demonstrate integration of DIY Bluetooth Low Energy sensors with Home Assistant.
 
 ## JavaScript (Node.js)
 * [All Your Base](https://github.com/DavesCodeMusings/all-your-base) -- Keep track of your Minecraft base coordinates.

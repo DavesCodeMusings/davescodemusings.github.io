@@ -39,6 +39,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [irc2Frotz](https://github.com/DavesCodeMusings/irc2Frotz) -- Connect the Interactive Fiction engine, Frotz, to IRC for multi-player adventures.
 * [ircFrankie](https://github.com/DavesCodeMusings/ircFrankie) -- A simple IRC bot in JavaScript for educational and entertainment purposes.
 * [ldapinator](https://github.com/DavesCodeMusings/ldapinator) -- A minimalist web-based LDAP administration tool with REST API.
+* [Monit Collector](https://github.com/DavesCodeMusings/monit-collector) -- Gather service states from Monit instances in a central location.
 * [MQTT Service Check](https://github.com/DavesCodeMusings/mqttServiceCheck) -- Monitor network services in Home Assistant via MQTT integration.
 * [pwHelper](https://github.com/DavesCodeMusings/pwHelper) -- Reset forgotten FreeBSD passwords if you know the secret phrase.
 

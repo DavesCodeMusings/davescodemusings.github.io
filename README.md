@@ -63,6 +63,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 
 Also available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/publishers/DavesCodeMusings)
 
-## Interactive Fiction
+## Retro Gaming
 * [All Hands Abandon Ship](https://github.com/DavesCodeMusings/abandon-ship) -- My entry into the 2023 Interactive Fiction Competition
 * [Inform 7](https://github.com/DavesCodeMusings/Inform7) -- Examples of basic game play scenarios using Inform 7 declarative language
+* [PvPGN Docker](https://github.com/DavesCodeMusings/pvpgn-docker/) -- Dockerfile and compose.yml to run PvPGN (Battle.net clone) server in a Docker container.

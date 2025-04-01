@@ -17,6 +17,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 
 ## Python / MicroPython
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
+* [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.
 * [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A mininalist, mostly RFC-959 compliant FTP server using asyncio.
 * [REPL Buddy](https://github.com/DavesCodeMusings/repl-buddy) -- Collection of Python functions to make REPL more like *nix shell.
 * [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) -- Minimalist CI/CD actions for your Gitea repositories.
@@ -24,7 +25,6 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 ## ESP32 / ESP8266 MicroPython
 * [ESP](https://github.com/DavesCodeMusings/esp) -- MicroPython to do cool and useful things with the Espressif devices.
 * [BLESP32](https://github.com/DavesCodeMusings/BLESP32) -- Bluetooth beacon in MicroPython.
-* [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.
 * [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md) -- Building a smart thermostat in stages as a teaching tool.
 
 ## ESP8266 C

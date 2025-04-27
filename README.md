@@ -2,6 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [I2C Pigeon](https://github.com/DavesCodeMusings/i2c_pigeon) -- The I2C bus wiring solution you never knew you needed... until now!
 * [BH1750-MicroPython](https://github.com/DavesCodeMusings/BH1750-MicroPython) -- A MicroPython driver module for the BH1750 ambient light sensor and a tutorial on how it was done.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
@@ -23,6 +24,9 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [FTPdLite](https://github.com/DavesCodeMusings/ftpdlite/) -- A mininalist, mostly RFC-959 compliant FTP server using asyncio.
 * [REPL Buddy](https://github.com/DavesCodeMusings/repl-buddy) -- Collection of Python functions to make REPL more like *nix shell.
 * [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) -- Minimalist CI/CD actions for your Gitea repositories.
+
+## ESP32 Harware
+* [I2C Pigeon](https://github.com/DavesCodeMusings/i2c_pigeon) -- The I2C bus wiring solution you never knew you needed... until now!
 
 ## ESP32 / ESP8266 MicroPython
 * [ESP](https://github.com/DavesCodeMusings/esp) -- MicroPython to do cool and useful things with the Espressif devices.

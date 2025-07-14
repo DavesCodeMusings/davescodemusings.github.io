@@ -2,7 +2,6 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [I2C Pigeon](https://github.com/DavesCodeMusings/i2c_pigeon) -- The I2C bus wiring solution you never knew you needed... until now!
 * [SHT3x-MicroPython](https://github.com/DavesCodeMusings/SHT3x-MicroPython) -- MicroPython driver module for the Sensirion SHT3x series of temperature humidity sensors.
 * [BH1750-MicroPython](https://github.com/DavesCodeMusings/BH1750-MicroPython) -- A MicroPython driver module for the BH1750 ambient light sensor and a tutorial on how it was done.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.

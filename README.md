@@ -2,6 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [SyslogHandler-MicroPython](https://github.com/DavesCodeMusings/SyslogHandler-MicroPython) -- MicroPython logging handler class to send logs to a central syslog server.
 * [SHT3x-MicroPython](https://github.com/DavesCodeMusings/SHT3x-MicroPython) -- MicroPython driver module for the Sensirion SHT3x series of temperature humidity sensors.
 * [BH1750-MicroPython](https://github.com/DavesCodeMusings/BH1750-MicroPython) -- A MicroPython driver module for the BH1750 ambient light sensor and a tutorial on how it was done.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.
@@ -19,6 +20,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 
 ## Python / MicroPython
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.
+* [SyslogHandler-MicroPython](https://github.com/DavesCodeMusings/SyslogHandler-MicroPython) -- MicroPython logging handler class to send logs to a central syslog server.
 * [BH1750-MicroPython](https://github.com/DavesCodeMusings/BH1750-MicroPython) -- A MicroPython driver module for the BH1750 ambient light sensor and a tutorial on how it was done.
 * [SHT3x-MicroPython](https://github.com/DavesCodeMusings/SHT3x-MicroPython) -- MicroPython driver module for the Sensirion SHT3x series of temperature humidity sensors.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.

@@ -57,7 +57,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 ## HTML / JavaScript / CSS
 * [Circle of Fifths](https://github.com/DavesCodeMusings/circle-of-fifths) -- The Circle of Fifths drawn on an HTML canvas
 * [Container Central](https://github.com/DavesCodeMusings/container-central) -- A minimalist web-based interface for Docker containers.
-* [Ham Cram](https://github.com/DavesCodeMusings/ham-cram) -- Ham Radio exam prep web application featuring read aloud speach synthesis.
+* [Ham Cram](https://github.com/DavesCodeMusings/ham-cram) -- Ham Radio exam prep web application featuring read aloud speech synthesis.
 * [htmlGauges](./htmlGauges) -- Analog looking gauges drawn on HTML5 canvases.
 * [Millennial Motivator](https://github.com/DavesCodeMusings/motivator) -- A tongue-in-cheek look at CSS transitions and JavaScript.
 * [Pusher Man](https://github.com/DavesCodeMusings/pusher-man) -- A fun way to learn about HTML5 Local Storage while tracking your meds.

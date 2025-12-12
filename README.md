@@ -32,7 +32,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 
 ## ESP32 / ESP8266 MicroPython
 * [ESP](https://github.com/DavesCodeMusings/esp) -- MicroPython to do cool and useful things with the Espressif devices.
-* [BLESP32](https://github.com/DavesCodeMusings/BLESP32) -- Bluetooth beacon in MicroPython.
+* [BLESP32](https://github.com/DavesCodeMusings/BLESP32) -- (archived) Bluetooth beacon in MicroPython.
 * [Smart Thermostat](https://github.com/DavesCodeMusings/smart-thermostat-lab/blob/main/README.md) -- Building a smart thermostat in stages as a teaching tool.
 
 ## ESP8266 C

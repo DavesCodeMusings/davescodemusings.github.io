@@ -15,7 +15,7 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md) -- Like CloudPi, but on x86 hardware with an Alpine Linux O.S.
 * [Cloud Pi](https://github.com/DavesCodeMusings/CloudPi) -- Ansible install of NextCloud and HomeAssistant Docker containers on a Raspberry Pi 3 or 4 running Raspberry Pi OS (Buster).
 * [Beastie Pi](https://github.com/DavesCodeMusings/BeastiePi/wiki) -- Tips and tricks for running FreeBSD on Raspberry Pi hardware.
-* [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
+* [WeeNAS](https://github.com/DavesCodeMusings/WeeNAS) -- (archived) Web-based administration with REST API for a Raspberry Pi 3 running FreeBSD 12 and Samba. Turns a old Pi and a flash drive into a cheap and totally unreliable NAS.
 
 ## Python / MicroPython
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.

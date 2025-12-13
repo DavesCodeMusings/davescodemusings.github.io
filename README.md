@@ -64,6 +64,10 @@ These projects center around turning a Raspberry Pi (and Intel NUC) into a samll
 * [Spartan](https://github.com/DavesCodeMusings/spartan) -- A lightweight mobile-friendly web front-end for menu navigation.
 * [tzText](./tzText) -- Time zone names in HTML/JavaScript to use in selection lists.
 
+## Home Automation and Networking
+* [UniFi + OPNSense](https://davescodemusings.github.io/unifi-opnsense) -- Combining UniFi APs and switches with an OPNSense firewall for a home network and IoT VLAN.
+* [Home Automation](https://github.com/DavesCodeMusings/home-automation) -- Running Home Assistant (and everything else) in Docker containers.
+
 ## REST API Examples 
 * [SolarEdgeAPI](https://github.com/DavesCodeMusings/SolarEdgeAPI) -- Read SolarEdge inverter data using API calls to monitoring site. Examples in HTML/JavaScript, Node.js, Python, and Linux shell.
 * [Cat Fact](https://github.com/DavesCodeMusings/cat-fact) -- Get a random cat fact on a web page using a publicly available REST API.

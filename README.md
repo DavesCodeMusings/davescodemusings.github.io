@@ -2,6 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [Raspberry Cobbler](https://github.com/DavesCodeMusings/raspberry-cobbler) -- Build your own minimalist OS for an old Raspberry Pi.
 * [OpenWrt Isolated](https://github.com/DavesCodeMusings/openwrt-isolated) -- Configure an old Pi Zero W as an isolated, non-internet connected access point.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.
 * [Thimble](https://github.com/DavesCodeMusings/thimble) -- A tiny web framework in the spirit of Flask for adding APIs to MicroPython projects.

@@ -11,6 +11,7 @@ These are the projects I've been focusing most of my attention on at the moment.
 
 ## Raspberry Pi / Intel NUC
 These projects center around turning a Raspberry Pi (and Intel NUC) into a samll home file server. N&uuml;Cloud and Cloud Pi are complete solutions. Beastie Pi and WeeNAS are unmaintained.
+* [Raspberry Cobbler](https://github.com/DavesCodeMusings/raspberry-cobbler) -- Build your own minimalist OS for an old Raspberry Pi.
 * [OpenWrt Isolated](https://github.com/DavesCodeMusings/openwrt-isolated) -- Configure an old Pi Zero W as an isolated, non-internet connected access point.
 * [School Coding Lab](https://github.com/DavesCodeMusings/school-coding-lab) -- Upcycle old Raspberry Pis for a student-built computer lab on the cheap.
 * [N&uuml;Cloud](https://github.com/DavesCodeMusings/nucloud/blob/main/README.md) -- Like CloudPi, but on x86 hardware with an Alpine Linux O.S.

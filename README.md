@@ -2,9 +2,9 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [MakerSpace](https://github.com/DavesCodeMusings/MakerSpace) -- electronic and programming experiments to get some STEM in your makerspace.
 * [CaptivePortal MicroPython](https://github.com/DavesCodeMusings/CaptivePortal-MicroPython) -- Display an informational page and never give internet access.
 * [Raspberry Cobbler](https://github.com/DavesCodeMusings/raspberry-cobbler) -- Build your own minimalist OS for an old Raspberry Pi.
-* [OpenWrt Isolated](https://github.com/DavesCodeMusings/openwrt-isolated) -- Configure an old Pi Zero W as an isolated, non-internet connected access point.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.

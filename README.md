@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [MakerSpace](https://github.com/DavesCodeMusings/MakerSpace) -- electronic and programming experiments to get some STEM in your makerspace.
+* [MakerSpace](https://github.com/DavesCodeMusings/MakerSpace) -- Electronic and programming experiments to put some STEM in your makerspace.
 * [CaptivePortal MicroPython](https://github.com/DavesCodeMusings/CaptivePortal-MicroPython) -- Display an informational page and never give internet access.
 * [Raspberry Cobbler](https://github.com/DavesCodeMusings/raspberry-cobbler) -- Build your own minimalist OS for an old Raspberry Pi.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.

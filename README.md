@@ -2,7 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
-* [6502 ASM](https://github.com/DavesCodeMusings/6502-asm) -- Kicking it old school with 6502 assembly language. 8-bit 4 life, baby!
+* [6502 ASM](https://github.com/DavesCodeMusings/6502-asm) -- Kicking it old school with assembly language on a 6502 simulator. 8-bit 4 life, baby!
 * [MakerSpace](https://github.com/DavesCodeMusings/MakerSpace) -- Electronic and programming experiments to put some STEM in your makerspace.
 * [CaptivePortal MicroPython](https://github.com/DavesCodeMusings/CaptivePortal-MicroPython) -- Display an informational page and never give internet access.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.

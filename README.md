@@ -2,9 +2,9 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [6502 ASM](https://github.com/DavesCodeMusings/6502-asm) -- Kicking it old school with 6502 assembly language. 8-bit 4 life, baby!
 * [MakerSpace](https://github.com/DavesCodeMusings/MakerSpace) -- Electronic and programming experiments to put some STEM in your makerspace.
 * [CaptivePortal MicroPython](https://github.com/DavesCodeMusings/CaptivePortal-MicroPython) -- Display an informational page and never give internet access.
-* [Raspberry Cobbler](https://github.com/DavesCodeMusings/raspberry-cobbler) -- Build your own minimalist OS for an old Raspberry Pi.
 * [BTHome MicroPython](https://github.com/DavesCodeMusings/BTHome-MicroPython) -- A Bluetooth beacon that adheres to the BTHome format.
 * [MPRemote VS Code](https://github.com/DavesCodeMusings/mpremote-vscode) -- Visual Studio Code extension for mpremote Python module.
 * [ESPTool VS Code](https://github.com/DavesCodeMusings/esptool-vscode) -- Visual Studio Code extension for esptool Python module.

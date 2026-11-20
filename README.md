@@ -2,6 +2,7 @@
 
 ## Newest and Most Active
 These are the projects I've been focusing most of my attention on at the moment.
+* [Roll for English](https://github.com/DavesCodeMusings/roll-for-english) -- A printable tabletop game for your English as a second language (ESL) class.
 * [6502 ASM](https://github.com/DavesCodeMusings/6502-asm) -- Kicking it old school with assembly language on a 6502 simulator. 8-bit 4 life, baby!
 * [MakerSpace](https://github.com/DavesCodeMusings/MakerSpace) -- Electronic and programming experiments to put some STEM in your makerspace.
 * [CaptivePortal MicroPython](https://github.com/DavesCodeMusings/CaptivePortal-MicroPython) -- Display an informational page and never give internet access.
